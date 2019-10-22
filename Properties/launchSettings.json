@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestInvoicePredict": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\torik\\OneDrive\\Documents\\samples"
+    }
+  }
+}
